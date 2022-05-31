@@ -1,0 +1,3 @@
+﻿  Homework3.cpp
+C:\Users\Костя\source\repos\HardCPP\main\Homework3\Task2.h(23,13): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  Homework3.vcxproj -> C:\Users\Костя\source\repos\HardCPP\main\x64\Debug\Homework3.exe
