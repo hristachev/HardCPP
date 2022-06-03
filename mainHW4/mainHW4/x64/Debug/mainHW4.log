@@ -1,0 +1,16 @@
+﻿  mainHW4.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\xutility(4022,18): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\xutility(4034): message : выполняется компиляция ссылки на экземпляр шаблон функции "_OutIt *std::_Copy_unchecked<double*,__int64*>(_InIt,_InIt,_OutIt)"
+          with
+          [
+              _OutIt=__int64 *,
+              _InIt=double *
+          ]
+C:\Users\Костя\source\repos\HardCPP\mainHW4\mainHW4\mainHW4.cpp(28): message : выполняется компиляция ссылки на экземпляр шаблон функции "_OutIt std::copy<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,std::_Vector_iterator<std::_Vector_val<std::_Simple_types<__int64>>>>(_InIt,_InIt,_OutIt)"
+          with
+          [
+              _OutIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<int64_t>>>,
+              _Ty=double,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<double>>>
+          ]
+  mainHW4.vcxproj -> C:\Users\Костя\source\repos\HardCPP\mainHW4\x64\Debug\mainHW4.exe
