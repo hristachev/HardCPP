@@ -1,0 +1,2 @@
+﻿  mainHomework5.cpp
+C:\Users\Костя\source\repos\HardCPP\mainHomework5\mainHomework5\counterWords.h(27,20): warning C4244: инициализация: преобразование "__int64" в "uint32_t", возможна потеря данных

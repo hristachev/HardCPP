@@ -1,0 +1,2 @@
+C:\Users\Костя\source\repos\HardCPP\mainHomework5\x64\Debug\mainHomework5.exe.lastcodeanalysissucceeded
+C:\Users\Костя\source\repos\HardCPP\mainHomework5\mainHomework5\x64\Debug\NativeCodeAnalysis.read.1.tlog
